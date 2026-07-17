@@ -1,0 +1,90 @@
+% Load dataset
+clc
+clear all
+load('alldata.mat')
+
+% Scramble table
+ttable = ttable(randperm(height(ttable)),:);
+
+% Predictors & Response
+x_starts = ttable.x_starts;
+y_starts = ttable.y_starts;
+x_finals = ttable.x_finals;
+y_finals = ttable.y_finals;
+dx = x_finals - x_starts;
+dy = y_finals - y_starts;
+x_velocs = ttable.x_velocs;
+y_velocs = ttable.y_velocs;
+% Vmean_stationary = Vmean_fil; % As opposed to Vmean_raw (which is theoretically ~equal)
+% V_coil1 = ttable.V_fil1 - Vmean_stationary;
+% V_coil2 = ttable.V_fil2 - Vmean_stationary;
+% V_coil3 = ttable.V_fil3 - Vmean_stationary;
+% V_coil4 = ttable.V_fil4 - Vmean_stationary;
+% V_coil5 = ttable.V_fil5 - Vmean_stationary;
+% V_coil6 = ttable.V_fil6 - Vmean_stationary;
+V_norm1 = ttable.V_segs_1;
+V_norm2 = ttable.V_segs_2;
+V_norm3 = ttable.V_segs_3;
+V_norm4 = ttable.V_segs_4;
+V_norm5 = ttable.V_segs_5;
+V_norm6 = ttable.V_segs_6;
+
+% Establish training data
+table_predictors = table(x_starts,y_starts,V_norm1,V_norm2,V_norm3,V_norm4,V_norm5,V_norm6);      % positions, V1x6 ratio; NO VELOCITIES
+table_predictors = table2array(table_predictors);
+
+table_response = table(dx,dy);
+% table_response = table(x_finals,y_finals);
+table_response = table2array(table_response);
+
+x = table_predictors';
+t = table_response';
+
+
+% TRAIN or LOAD best model
+    % Load data
+    X = x;% your input data
+    T = t;% your target data
+    
+    % Define the optimized variables
+    trainFcn = 'trainscg';
+    hiddenLayerSize = [35, 15, 1];
+    learningRate = 0.0034557;
+    l2Regularization = 0.00010329;
+
+    % Name the model
+    mname = ("Hyperparam_tuning\MODEL_"+trainFcn+"_LAYERS_"+replace(replace(replace(num2str(hiddenLayerSize),'  ',' '),'  ',' '),' ','_') ...
+    +"_LR_"+replace(num2str(learningRate),'.','p')+"_L2_"+replace(num2str(l2Regularization),'.','p')...
+    +".mat")
+    
+    if isfile(mname)
+        disp()
+        load(mname, 'net', 'tr');
+    else
+        % Train + save the model!
+        % Create and configure a fitnet neural network
+        % net = fitnet(hiddenLayerSize, trainFcn);  % Causes freezes and
+                    % ludicrous numbers of... variables???
+        net = fitnet(hiddenLayerSize);
+        
+        % Set training parameters
+        net.trainParam.lr = learningRate;
+        net.performParam.regularization = l2Regularization;
+        
+        % Split data into training, validation, and test sets
+        [trainInd, valInd, testInd] = divideind(size(X, 2), 1:70, 71:85, 86:100);
+        net.divideFcn = 'divideind';
+        net.divideParam.trainInd = trainInd;
+        net.divideParam.valInd = valInd;
+        net.divideParam.testInd = testInd;
+    
+        disp("Training: "+num2str(length(hiddenLayerSize))+" layers, ["+num2str(hiddenLayerSize)+"] nodes in the layers:")
+        [net,tr] = train(net,X,T);
+        % Save the network
+        save(mname,'net','tr')
+        
+        % Compute validation error
+        valOutputs = net(X(:, valInd));
+        valTargets = T(:, valInd);
+        valError = perform(net, valTargets, valOutputs);
+    end
