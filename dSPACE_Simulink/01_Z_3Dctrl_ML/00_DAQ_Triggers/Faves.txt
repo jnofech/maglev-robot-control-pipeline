@@ -1,0 +1,19 @@
+Model Root/get_plant_input/Z_1dctrl/EMERGENCY PAUSE/Value
+Model Root/Monitoring/diagnostics/z_resting_too_low
+Model Root/Monitoring/diagnostics/z_resting
+Model Root/Monitoring/diagnostics/h2_or_h3_empty
+Model Root/Monitoring/diagnostics/h1_empty
+Model Root/Monitoring/diagnostics/h3_off
+Model Root/Monitoring/diagnostics/h2_off
+Model Root/Monitoring/diagnostics/h1_off
+Model Root/plant/Position Determination1/z_pos_raw
+Model Root/plant/Position Determination1/y_pos_raw
+Model Root/plant/Position Determination1/x_pos_raw
+Model Root/Input parameters/Z_desired_true/Value
+Model Root/get_plant_input/Z_1dctrl/Current2Vol1/Gain2/Out1
+Model Root/plant/Position Determination1/x_pos_fil
+Model Root/plant/Position Determination1/y_pos_fil
+Model Root/plant/Position Determination1/z_pos_fil
+Model Root/plant/output signal/Head Z (V)/Out1
+Model Root/plant/output signal/Head II (V)/Out1
+Model Root/plant/output signal/Head III (V)/Out1

@@ -1,0 +1,1230 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Root>
+	<creator type="key">ControlDesk 7.6</creator>
+	<majorversion type="key">7</majorversion>
+	<minorversion type="key">6</minorversion>
+	<maintenanceversion type="key">0</maintenanceversion>
+	<specialbuildversion type="key"/>
+	<releasename type="key">2022-A</releasename>
+	<experiment>
+		<Creator type="key">ControlDesk</Creator>
+		<MigrationHistory type="key"/>
+		<Name type="key">ML_Presentation_Demo.CDE</Name>
+		<DisplayName type="key">ML_Presentation_Demo</DisplayName>
+		<Path type="key">.\ML_Presentation_Demo</Path>
+		<Flags type="key">4096</Flags>
+		<Type type="key">2</Type>
+		<UniqueID type="key">724857172</UniqueID>
+		<EntityID type="key">{2B7A461E-53DB-4F7E-9711-44122EFC43D3}</EntityID>
+		<ItemInfoDate type="key">2022-12-05 20:13:40</ItemInfoDate>
+		<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+		<ItemInfoDescr type="key"/>
+		<ItemInfoAddInfoDb type="key"/>
+		<ItemInfoAuthor type="key">jnofech</ItemInfoAuthor>
+		<item>
+			<Component type="key">VariablesManagement</Component>
+			<Name type="key">CalculatedVariables.vdp</Name>
+			<DisplayName type="key">CalculatedVariables.vdp</DisplayName>
+			<Path type="key">.</Path>
+			<Flags type="key">18692</Flags>
+			<Type type="key">4</Type>
+			<UniqueID type="key">522701184</UniqueID>
+			<EntityID type="key">{D19473EF-0FC6-421A-8FE3-18673C513A01}</EntityID>
+			<ItemInfoDate type="key">2022-12-05 20:13:41</ItemInfoDate>
+			<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+			<ItemInfoDescr type="key"/>
+			<ItemInfoAddInfoDb type="key"/>
+			<ItemInfoAuthor type="key">jnofech</ItemInfoAuthor>
+		</item>
+		<item>
+			<Targets type="key">experiment</Targets>
+			<Name type="key">ML_Presentation_Demo</Name>
+			<DisplayName type="key">ML_Presentation_Demo</DisplayName>
+			<Path type="key">..</Path>
+			<Flags type="key">4100</Flags>
+			<Type type="key">3</Type>
+			<UniqueID type="key">689753449</UniqueID>
+			<EntityID type="key">{50B10D0D-2287-4A70-884B-CD4B05F7B4E6}</EntityID>
+			<ItemInfoDate type="key">2022-12-05 20:13:40</ItemInfoDate>
+			<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+			<ItemInfoDescr type="key"/>
+			<ItemInfoAddInfoDb type="key"/>
+			<ItemInfoAuthor type="key">jnofech</ItemInfoAuthor>
+			<item>
+				<Targets type="key">instrumentation</Targets>
+				<Name type="key">Experiment Layouts</Name>
+				<DisplayName type="key">Experiment Layouts</DisplayName>
+				<Path type="key">.</Path>
+				<Flags type="key">256</Flags>
+				<ExtendedFlags type="key">4224</ExtendedFlags>
+				<Type type="key">3</Type>
+				<UniqueID type="key">457959172</UniqueID>
+				<EntityID type="key">{29CB4D0D-F7AE-4CED-A6E7-C20A7FE132F0}</EntityID>
+				<ItemInfoDate type="key">2022-12-05 20:13:40</ItemInfoDate>
+				<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+				<ItemInfoDescr type="key"/>
+				<ItemInfoAddInfoDb type="key"/>
+				<ItemInfoAuthor type="key">jnofech</ItemInfoAuthor>
+				<item>
+					<Name type="key">ML_Presentation_Demo.cdc</Name>
+					<DisplayName type="key">ML_Presentation_Demo.cdc</DisplayName>
+					<Path type="key">.\Experiment Layouts</Path>
+					<Flags type="key">4100</Flags>
+					<Type type="key">4</Type>
+					<UniqueID type="key">835006413</UniqueID>
+					<EntityID type="key">{94EAA8E2-83A9-4A67-A577-1A35B0238539}</EntityID>
+					<ItemInfoDate type="key">2022-12-05 20:13:41</ItemInfoDate>
+					<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+					<ItemInfoDescr type="key"/>
+					<ItemInfoAddInfoDb type="key"/>
+					<ItemInfoAuthor type="key">jnofech</ItemInfoAuthor>
+				</item>
+				<item>
+					<Component type="key">Instrumentation</Component>
+					<Name type="key">Layout1.lay</Name>
+					<DisplayName type="key">Layout1.lay</DisplayName>
+					<Path type="key">.\Experiment Layouts</Path>
+					<Flags type="key">17472</Flags>
+					<Type type="key">10</Type>
+					<UniqueID type="key">774790070</UniqueID>
+					<EntityID type="key">{340EC08E-FC43-4A4C-B970-4FBB4230B2CE}</EntityID>
+					<ItemInfoDate type="key">2022-12-05 20:13:42</ItemInfoDate>
+					<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+					<ItemInfoDescr type="key"/>
+					<ItemInfoAddInfoDb type="key"/>
+					<ItemInfoAuthor type="key">jnofech</ItemInfoAuthor>
+				</item>
+				<item>
+					<Component type="key">Instrumentation</Component>
+					<Name type="key">LAYOUT_Xiaodong_mimic.lay</Name>
+					<DisplayName type="key">LAYOUT_Xiaodong_mimic.lay</DisplayName>
+					<Path type="key">.\Experiment Layouts</Path>
+					<Flags type="key">17472</Flags>
+					<Type type="key">10</Type>
+					<UniqueID type="key">102580636</UniqueID>
+					<EntityID type="key">{B205426D-998B-4972-92BD-F5581EA48639}</EntityID>
+					<LWCChecksum type="key">A9CC7D68</LWCChecksum>
+					<ExtSrcChecksum type="key">1B7D20BF</ExtSrcChecksum>
+					<ExtSrcPath type="key">..\..\00_LAYOUTS_looped\LAYOUT_Xiaodong_mimic.lax</ExtSrcPath>
+					<ItemInfoDate type="key">2022-12-05 20:13:53</ItemInfoDate>
+					<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+					<ItemInfoDescr type="key"/>
+					<ItemInfoAddInfoDb type="key"/>
+					<ItemInfoAuthor type="key">jnofech</ItemInfoAuthor>
+				</item>
+				<item>
+					<Component type="key">Instrumentation</Component>
+					<Name type="key">LAYOUT_Xiaodong_mimic_1.lay</Name>
+					<DisplayName type="key">LAYOUT_Xiaodong_mimic_1.lay</DisplayName>
+					<Path type="key">.\Experiment Layouts</Path>
+					<Flags type="key">17472</Flags>
+					<Type type="key">10</Type>
+					<UniqueID type="key">703097691</UniqueID>
+					<EntityID type="key">{F3CA27C6-B6A3-4F9A-88A8-F8FFF5B3722E}</EntityID>
+					<LWCChecksum type="key">A45E9060</LWCChecksum>
+					<ExtSrcChecksum type="key">1867841E</ExtSrcChecksum>
+					<ExtSrcPath type="key">..\..\00_LAYOUTS_manual\LAYOUT_Xiaodong_mimic.lax</ExtSrcPath>
+					<ItemInfoDate type="key">2022-12-05 20:14:25</ItemInfoDate>
+					<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+					<ItemInfoDescr type="key"/>
+					<ItemInfoAddInfoDb type="key"/>
+					<ItemInfoAuthor type="key">jnofech</ItemInfoAuthor>
+				</item>
+				<item>
+					<Component type="key">Instrumentation</Component>
+					<Name type="key">LAYOUT_Xiaodong_mimic_2.lay</Name>
+					<DisplayName type="key">LAYOUT_Xiaodong_mimic_2.lay</DisplayName>
+					<Path type="key">.\Experiment Layouts</Path>
+					<Flags type="key">16448</Flags>
+					<Type type="key">10</Type>
+					<UniqueID type="key">485113756</UniqueID>
+					<EntityID type="key">{14322498-B0D3-442C-A29A-3E3DC3E90F61}</EntityID>
+					<LWCChecksum type="key">E60954C6</LWCChecksum>
+					<ExtSrcChecksum type="key">1B7D20BF</ExtSrcChecksum>
+					<ExtSrcPath type="key">..\..\00_LAYOUTS_looped\LAYOUT_Xiaodong_mimic.lax</ExtSrcPath>
+					<ItemInfoDate type="key">2022-12-05 20:14:42</ItemInfoDate>
+					<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+					<ItemInfoDescr type="key"/>
+					<ItemInfoAddInfoDb type="key"/>
+					<ItemInfoAuthor type="key">jnofech</ItemInfoAuthor>
+				</item>
+				<item>
+					<Component type="key">Instrumentation</Component>
+					<Name type="key">LAYOUT_CoilData.lay</Name>
+					<DisplayName type="key">LAYOUT_CoilData.lay</DisplayName>
+					<Path type="key">.\Experiment Layouts</Path>
+					<Flags type="key">16448</Flags>
+					<Type type="key">10</Type>
+					<UniqueID type="key">306068390</UniqueID>
+					<EntityID type="key">{7F7940F6-84EF-443B-9C5C-CD5B73CA3804}</EntityID>
+					<LWCChecksum type="key">776E1A30</LWCChecksum>
+					<ExtSrcChecksum type="key">7710A795</ExtSrcChecksum>
+					<ExtSrcPath type="key">..\..\00_LAYOUTS_manual\LAYOUT_CoilData.lax</ExtSrcPath>
+					<ItemInfoDate type="key">2022-12-05 20:15:00</ItemInfoDate>
+					<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+					<ItemInfoDescr type="key"/>
+					<ItemInfoAddInfoDb type="key"/>
+					<ItemInfoAuthor type="key">jnofech</ItemInfoAuthor>
+				</item>
+				<item>
+					<Component type="key">Instrumentation</Component>
+					<Name type="key">LAYOUT_RatioControls.lay</Name>
+					<DisplayName type="key">LAYOUT_RatioControls.lay</DisplayName>
+					<Path type="key">.\Experiment Layouts</Path>
+					<Flags type="key">16448</Flags>
+					<Type type="key">10</Type>
+					<UniqueID type="key">958136305</UniqueID>
+					<EntityID type="key">{D9510B9F-CE6C-405B-8B71-67A6DC1FEE0C}</EntityID>
+					<LWCChecksum type="key">C5CB9745</LWCChecksum>
+					<ExtSrcChecksum type="key">D5090E40</ExtSrcChecksum>
+					<ExtSrcPath type="key">..\..\00_LAYOUTS_manual\LAYOUT_RatioControls.lax</ExtSrcPath>
+					<ItemInfoDate type="key">2022-12-05 20:15:00</ItemInfoDate>
+					<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+					<ItemInfoDescr type="key"/>
+					<ItemInfoAddInfoDb type="key"/>
+					<ItemInfoAuthor type="key">jnofech</ItemInfoAuthor>
+				</item>
+				<item>
+					<Component type="key">Instrumentation</Component>
+					<Name type="key">LAYOUT_z_PID.lay</Name>
+					<DisplayName type="key">LAYOUT_z_PID.lay</DisplayName>
+					<Path type="key">.\Experiment Layouts</Path>
+					<Flags type="key">16448</Flags>
+					<Type type="key">10</Type>
+					<UniqueID type="key">721982950</UniqueID>
+					<EntityID type="key">{836E0674-37E1-4EBD-80D7-9B0A127721A0}</EntityID>
+					<LWCChecksum type="key">C44EB951</LWCChecksum>
+					<ExtSrcChecksum type="key">CF6BBCFC</ExtSrcChecksum>
+					<ExtSrcPath type="key">..\..\00_LAYOUTS_manual\LAYOUT_z_PID.lax</ExtSrcPath>
+					<ItemInfoDate type="key">2022-12-05 20:15:01</ItemInfoDate>
+					<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+					<ItemInfoDescr type="key"/>
+					<ItemInfoAddInfoDb type="key"/>
+					<ItemInfoAuthor type="key">jnofech</ItemInfoAuthor>
+				</item>
+				<item>
+					<Component type="key">Instrumentation</Component>
+					<Name type="key">Layout5.lay</Name>
+					<DisplayName type="key">Layout5.lay</DisplayName>
+					<Path type="key">.\Experiment Layouts</Path>
+					<Flags type="key">17472</Flags>
+					<Type type="key">10</Type>
+					<UniqueID type="key">994530075</UniqueID>
+					<EntityID type="key">{8AF81604-9E82-4589-A0CB-08FFCCE2CB31}</EntityID>
+					<ItemInfoDate type="key">2022-12-05 20:18:58</ItemInfoDate>
+					<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+					<ItemInfoDescr type="key"/>
+					<ItemInfoAddInfoDb type="key"/>
+					<ItemInfoAuthor type="key">jnofech</ItemInfoAuthor>
+				</item>
+				<item>
+					<Component type="key">Instrumentation</Component>
+					<Name type="key">LAYOUT_ProjectDemo.lay</Name>
+					<DisplayName type="key">LAYOUT_ProjectDemo.lay</DisplayName>
+					<Path type="key">.\Experiment Layouts</Path>
+					<Flags type="key">17472</Flags>
+					<Type type="key">10</Type>
+					<UniqueID type="key">17637297</UniqueID>
+					<EntityID type="key">{61D10546-CBCE-4CAF-8055-BC23E860B597}</EntityID>
+					<LWCChecksum type="key">24C0764A</LWCChecksum>
+					<ExtSrcChecksum type="key">872F596F</ExtSrcChecksum>
+					<ExtSrcPath type="key">..\..\00_LAYOUTS_manual\LAYOUT_ProjectDemo.lax</ExtSrcPath>
+					<ItemInfoDate type="key">2022-12-05 21:19:46</ItemInfoDate>
+					<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+					<ItemInfoDescr type="key"/>
+					<ItemInfoAddInfoDb type="key"/>
+					<ItemInfoAuthor type="key">jnofech</ItemInfoAuthor>
+				</item>
+				<item>
+					<Component type="key">Instrumentation</Component>
+					<Name type="key">LAYOUT_ProjectDemo_1.lay</Name>
+					<DisplayName type="key">LAYOUT_ProjectDemo_1.lay</DisplayName>
+					<Path type="key">.\Experiment Layouts</Path>
+					<Flags type="key">17472</Flags>
+					<Type type="key">10</Type>
+					<UniqueID type="key">556256945</UniqueID>
+					<EntityID type="key">{5F91C887-C274-4CB9-9845-1D55E39F12AD}</EntityID>
+					<LWCChecksum type="key">B80F6CAD</LWCChecksum>
+					<ExtSrcChecksum type="key">8CAD551E</ExtSrcChecksum>
+					<ExtSrcPath type="key">..\..\00_LAYOUTS_manual\LAYOUT_ProjectDemo.lax</ExtSrcPath>
+					<ItemInfoDate type="key">2022-12-05 21:20:02</ItemInfoDate>
+					<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+					<ItemInfoDescr type="key"/>
+					<ItemInfoAddInfoDb type="key"/>
+					<ItemInfoAuthor type="key">jnofech</ItemInfoAuthor>
+				</item>
+				<item>
+					<Component type="key">Instrumentation</Component>
+					<Name type="key">LAYOUT_ProjectDemo_2.lay</Name>
+					<DisplayName type="key">LAYOUT_ProjectDemo_2.lay</DisplayName>
+					<Path type="key">.\Experiment Layouts</Path>
+					<Flags type="key">17472</Flags>
+					<Type type="key">10</Type>
+					<UniqueID type="key">64190498</UniqueID>
+					<EntityID type="key">{7F784F61-97EE-4A2D-A401-D38DD419D57B}</EntityID>
+					<LWCChecksum type="key">BB229B13</LWCChecksum>
+					<ExtSrcChecksum type="key">933AE392</ExtSrcChecksum>
+					<ExtSrcPath type="key">..\..\00_LAYOUTS_manual\LAYOUT_ProjectDemo.lax</ExtSrcPath>
+					<ItemInfoDate type="key">2022-12-05 21:26:34</ItemInfoDate>
+					<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+					<ItemInfoDescr type="key"/>
+					<ItemInfoAddInfoDb type="key"/>
+					<ItemInfoAuthor type="key">jnofech</ItemInfoAuthor>
+				</item>
+			</item>
+			<item>
+				<Targets type="key">devicemanagement,platformmanagement,diagnosticsmanagement</Targets>
+				<Name type="key">Hardware Configurations</Name>
+				<DisplayName type="key">Hardware Configurations</DisplayName>
+				<Path type="key">.</Path>
+				<Flags type="key">256</Flags>
+				<Type type="key">3</Type>
+				<UniqueID type="key">648167491</UniqueID>
+				<EntityID type="key">{24670F10-71D2-4FF6-814C-59CB5151EDBA}</EntityID>
+				<ItemInfoDate type="key">2022-12-05 20:13:40</ItemInfoDate>
+				<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+				<ItemInfoDescr type="key"/>
+				<ItemInfoAddInfoDb type="key"/>
+				<ItemInfoAuthor type="key">jnofech</ItemInfoAuthor>
+				<item>
+					<Component type="key">PlatformManagement</Component>
+					<Targets type="key">Device::04d082b0-1745-40b0-af50-e0e9fc2df7b2</Targets>
+					<RestoreInfopmdn type="key">Platform</RestoreInfopmdn>
+					<RestoreInfopmid type="key">04d082b0-1745-40b0-af50-e0e9fc2df7b2</RestoreInfopmid>
+					<Name type="key">04d082b0-1745-40b0-af50-e0e9fc2df7b2</Name>
+					<DisplayName type="key">Platform [DS1006 Processor Board, assigned to 'ds1006']</DisplayName>
+					<Flags type="key">128</Flags>
+					<ExtendedFlags type="key">3072</ExtendedFlags>
+					<Type type="key">6</Type>
+					<UniqueID type="key">94725572</UniqueID>
+					<EntityID type="key">{B821336D-C111-4F45-917A-40EFC6F38AB6}</EntityID>
+					<ItemInfoDate type="key">2022-12-05 20:13:42</ItemInfoDate>
+					<ItemInfoDescr type="key"/>
+					<ItemInfoAddInfoDb type="key"/>
+					<ItemInfoAuthor type="key">jnofech</ItemInfoAuthor>
+					<item>
+						<Component type="key">VariablesManagement</Component>
+						<Name type="key">z_3dctrl_zonly_antiwindup.sdf</Name>
+						<DisplayName type="key">z_3dctrl_zonly_antiwindup.sdf</DisplayName>
+						<Path type="key">.\Variable Descriptions\z_3dctrl_zonly_antiwindup.sdf</Path>
+						<Flags type="key">18704</Flags>
+						<Type type="key">7</Type>
+						<UniqueID type="key">143638746</UniqueID>
+						<EntityID type="key">{A116CFE9-B357-4D96-8422-DBFE0B454FAA}</EntityID>
+						<ItemInfoDate type="key">2022-12-05 20:13:42</ItemInfoDate>
+						<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+						<ItemInfoLog type="key">
+Variable description added on 2022-12-05 20:13:42 (D:\Maglev_Project\ME780 Project\z_3dctrl_zonly_antiwindup.sdf)</ItemInfoLog>
+						<ItemInfoDescr type="key"/>
+						<ItemInfoAddInfoDb type="key"/>
+						<ItemInfoAuthor type="key">jnofech</ItemInfoAuthor>
+						<item>
+							<Component type="key">VariablesManagement</Component>
+							<Name type="key">z_3dctrl_zonly_antiwindup.vdp</Name>
+							<DisplayName type="key">z_3dctrl_zonly_antiwindup.vdp</DisplayName>
+							<Path type="key">.\Variable Descriptions\z_3dctrl_zonly_antiwindup.sdf</Path>
+							<Flags type="key">18692</Flags>
+							<Type type="key">4</Type>
+							<UniqueID type="key">513155315</UniqueID>
+							<EntityID type="key">{A722EE64-C8AA-4872-A516-5C90FE6126B7}</EntityID>
+							<ItemInfoDate type="key">2022-12-05 20:13:43</ItemInfoDate>
+							<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+							<ItemInfoDescr type="key"/>
+							<ItemInfoAddInfoDb type="key"/>
+							<ItemInfoAuthor type="key">jnofech</ItemInfoAuthor>
+						</item>
+						<item>
+							<Component type="key">VariablesManagement</Component>
+							<Name type="key">.metadata</Name>
+							<DisplayName type="key">.metadata</DisplayName>
+							<Path type="key">.\Variable Descriptions\z_3dctrl_zonly_antiwindup.sdf</Path>
+							<Flags type="key">18692</Flags>
+							<Type type="key">4</Type>
+							<UniqueID type="key">755712617</UniqueID>
+							<EntityID type="key">{7AC1B9F9-8C36-4E9C-AF92-A713EF80624F}</EntityID>
+							<ItemInfoDate type="key">2022-12-05 20:13:42</ItemInfoDate>
+							<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+							<ItemInfoDescr type="key"/>
+							<ItemInfoAddInfoDb type="key"/>
+							<ItemInfoAuthor type="key">jnofech</ItemInfoAuthor>
+						</item>
+						<item>
+							<Component type="key">VariablesManagement</Component>
+							<Name type="key">z_3dctrl_zonly_antiwindup.map</Name>
+							<DisplayName type="key">z_3dctrl_zonly_antiwindup.map</DisplayName>
+							<Path type="key">.\Variable Descriptions\z_3dctrl_zonly_antiwindup.sdf</Path>
+							<Flags type="key">18692</Flags>
+							<Type type="key">4</Type>
+							<UniqueID type="key">64759766</UniqueID>
+							<EntityID type="key">{4E829F2C-4ED4-4F03-9B2E-3E8CDA9846E6}</EntityID>
+							<ItemInfoDate type="key">2022-12-05 20:13:42</ItemInfoDate>
+							<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+							<ItemInfoDescr type="key"/>
+							<ItemInfoAddInfoDb type="key"/>
+							<ItemInfoAuthor type="key">jnofech</ItemInfoAuthor>
+						</item>
+						<item>
+							<Component type="key">VariablesManagement</Component>
+							<Name type="key">z_3dctrl_zonly_antiwindup.x86</Name>
+							<DisplayName type="key">z_3dctrl_zonly_antiwindup.x86</DisplayName>
+							<Path type="key">.\Variable Descriptions\z_3dctrl_zonly_antiwindup.sdf</Path>
+							<Flags type="key">18692</Flags>
+							<Type type="key">4</Type>
+							<UniqueID type="key">1006649655</UniqueID>
+							<EntityID type="key">{570EFDD3-27A8-4C96-AA38-0AC1B293D3D6}</EntityID>
+							<ItemInfoDate type="key">2022-12-05 20:13:42</ItemInfoDate>
+							<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+							<ItemInfoDescr type="key"/>
+							<ItemInfoAddInfoDb type="key"/>
+							<ItemInfoAuthor type="key">jnofech</ItemInfoAuthor>
+						</item>
+						<item>
+							<Component type="key">VariablesManagement</Component>
+							<Name type="key">z_3dctrl_zonly_antiwindup.trc</Name>
+							<DisplayName type="key">z_3dctrl_zonly_antiwindup.trc</DisplayName>
+							<Path type="key">.\Variable Descriptions\z_3dctrl_zonly_antiwindup.sdf</Path>
+							<Flags type="key">18692</Flags>
+							<Type type="key">4</Type>
+							<UniqueID type="key">130230594</UniqueID>
+							<EntityID type="key">{9FA08621-8B94-4E6A-9B56-E7B36A51C6A0}</EntityID>
+							<ItemInfoDate type="key">2022-12-05 20:13:42</ItemInfoDate>
+							<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+							<ItemInfoDescr type="key"/>
+							<ItemInfoAddInfoDb type="key"/>
+							<ItemInfoAuthor type="key">jnofech</ItemInfoAuthor>
+						</item>
+						<item>
+							<Component type="key">VariablesManagement</Component>
+							<Name type="key">z_3dctrl_zonly_antiwindup.dsbuildinfo</Name>
+							<DisplayName type="key">z_3dctrl_zonly_antiwindup.dsbuildinfo</DisplayName>
+							<Path type="key">.\Variable Descriptions\z_3dctrl_zonly_antiwindup.sdf</Path>
+							<Flags type="key">18692</Flags>
+							<Type type="key">4</Type>
+							<UniqueID type="key">70881563</UniqueID>
+							<EntityID type="key">{296D3B28-F305-4233-95E0-0C9B57559774}</EntityID>
+							<ItemInfoDate type="key">2022-12-05 20:13:42</ItemInfoDate>
+							<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+							<ItemInfoDescr type="key"/>
+							<ItemInfoAddInfoDb type="key"/>
+							<ItemInfoAuthor type="key">jnofech</ItemInfoAuthor>
+						</item>
+						<item>
+							<Component type="key">DataSetManager</Component>
+							<Name type="key">Data Sets</Name>
+							<DisplayName type="key">Data Sets</DisplayName>
+							<Path type="key">.\Data Sets</Path>
+							<Flags type="key">65798</Flags>
+							<ExtendedFlags type="key">132</ExtendedFlags>
+							<Type type="key">3</Type>
+							<UniqueID type="key">464986310</UniqueID>
+							<EntityID type="key">{EA151E34-4556-4278-8C47-E59CDCE228C9}</EntityID>
+							<ItemInfoDate type="key">2022-12-05 20:13:42</ItemInfoDate>
+							<ItemInfoDescr type="key"/>
+							<ItemInfoAddInfoDb type="key"/>
+							<ItemInfoAuthor type="key">jnofech</ItemInfoAuthor>
+						</item>
+						<item>
+							<Component type="key">MeasureDataManagement</Component>
+							<Flags type="key">1380</Flags>
+							<UniqueID type="key">842868488</UniqueID>
+							<LinkedItem type="key">182391649</LinkedItem>
+						</item>
+						<item>
+							<Component type="key">MeasureDataManagement</Component>
+							<Flags type="key">1380</Flags>
+							<UniqueID type="key">1032876513</UniqueID>
+							<LinkedItem type="key">492046459</LinkedItem>
+						</item>
+						<item>
+							<Component type="key">MeasureDataManagement</Component>
+							<Flags type="key">1380</Flags>
+							<UniqueID type="key">904590243</UniqueID>
+							<LinkedItem type="key">481612120</LinkedItem>
+						</item>
+						<item>
+							<Component type="key">MeasureDataManagement</Component>
+							<Flags type="key">1380</Flags>
+							<UniqueID type="key">79366148</UniqueID>
+							<LinkedItem type="key">265775796</LinkedItem>
+						</item>
+					</item>
+				</item>
+			</item>
+			<item>
+				<Targets type="key">variablesmanagement</Targets>
+				<Name type="key">Variable Descriptions</Name>
+				<DisplayName type="key">Variable Descriptions</DisplayName>
+				<Path type="key">.</Path>
+				<Flags type="key">260</Flags>
+				<Type type="key">3</Type>
+				<UniqueID type="key">355586872</UniqueID>
+				<EntityID type="key">{EC042BB3-0CFE-49DC-B819-C29F00A28FBD}</EntityID>
+				<ItemInfoDate type="key">2022-12-05 20:13:40</ItemInfoDate>
+				<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+				<ItemInfoDescr type="key"/>
+				<ItemInfoAddInfoDb type="key"/>
+				<ItemInfoAuthor type="key">jnofech</ItemInfoAuthor>
+			</item>
+			<item>
+				<Targets type="key">datasetmanager</Targets>
+				<Name type="key">Data Sets</Name>
+				<DisplayName type="key">Data Sets</DisplayName>
+				<Path type="key">.</Path>
+				<Flags type="key">4</Flags>
+				<Type type="key">3</Type>
+				<UniqueID type="key">501976907</UniqueID>
+				<EntityID type="key">{EF3CC49A-E5DD-4A90-A029-F7E5E4A2EECC}</EntityID>
+				<ItemInfoDate type="key">2022-12-05 20:13:40</ItemInfoDate>
+				<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+				<ItemInfoDescr type="key"/>
+				<ItemInfoAddInfoDb type="key"/>
+				<ItemInfoAuthor type="key">jnofech</ItemInfoAuthor>
+			</item>
+			<item>
+				<Targets type="key">measuredatamanagement</Targets>
+				<Name type="key">Measurement Data</Name>
+				<DisplayName type="key">Measurement Data</DisplayName>
+				<Path type="key">.</Path>
+				<Flags type="key">256</Flags>
+				<ExtendedFlags type="key">4224</ExtendedFlags>
+				<Type type="key">3</Type>
+				<UniqueID type="key">558625824</UniqueID>
+				<EntityID type="key">{C222781E-3984-42C9-BFE7-8BF6B3831DE8}</EntityID>
+				<ItemInfoDate type="key">2022-12-05 20:13:40</ItemInfoDate>
+				<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+				<ItemInfoDescr type="key"/>
+				<ItemInfoAddInfoDb type="key"/>
+				<ItemInfoAuthor type="key">jnofech</ItemInfoAuthor>
+				<item>
+					<Component type="key">MeasureDataManagement</Component>
+					<Name type="key">rec1_001.mf4</Name>
+					<DisplayName type="key">rec1_001.mf4</DisplayName>
+					<Path type="key">.\Measurement Data</Path>
+					<Flags type="key">1088</Flags>
+					<Type type="key">9</Type>
+					<UniqueID type="key">182391649</UniqueID>
+					<EntityID type="key">{3662D7E7-C2A5-42CB-9384-F7A5965B183D}</EntityID>
+					<ItemInfoDate type="key">2022-12-05 21:38:05</ItemInfoDate>
+					<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+					<ItemInfoLog type="key">
+Software revision: z_3dctrl_zonly_antiwindup.sdf, z_3dctrl_zonly_antiwindup.x86
+Variable description: z_3dctrl_zonly_antiwindup.sdf
+    Platform / Device: Platform [DS1006 Processor Board, assigned to 'ds1006']
+ControlDesk version: 7.6</ItemInfoLog>
+					<ItemInfoDescr type="key"/>
+					<ItemInfoAddInfoDb type="key"/>
+					<ItemInfoAuthor type="key">jnofech</ItemInfoAuthor>
+				</item>
+				<item>
+					<Component type="key">MeasureDataManagement</Component>
+					<Name type="key">rec1_002.mf4</Name>
+					<DisplayName type="key">rec1_002.mf4</DisplayName>
+					<Path type="key">.\Measurement Data</Path>
+					<Flags type="key">1088</Flags>
+					<Type type="key">9</Type>
+					<UniqueID type="key">492046459</UniqueID>
+					<EntityID type="key">{7D600B9F-ABB3-4C1D-9DF0-8AB35C2AD5A8}</EntityID>
+					<ItemInfoDate type="key">2022-12-05 21:38:20</ItemInfoDate>
+					<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+					<ItemInfoLog type="key">
+Software revision: z_3dctrl_zonly_antiwindup.sdf, z_3dctrl_zonly_antiwindup.x86
+Variable description: z_3dctrl_zonly_antiwindup.sdf
+    Platform / Device: Platform [DS1006 Processor Board, assigned to 'ds1006']
+ControlDesk version: 7.6</ItemInfoLog>
+					<ItemInfoDescr type="key"/>
+					<ItemInfoAddInfoDb type="key"/>
+					<ItemInfoAuthor type="key">jnofech</ItemInfoAuthor>
+				</item>
+				<item>
+					<Component type="key">MeasureDataManagement</Component>
+					<Name type="key">rec1_003.mf4</Name>
+					<DisplayName type="key">rec1_003.mf4</DisplayName>
+					<Path type="key">.\Measurement Data</Path>
+					<Flags type="key">1088</Flags>
+					<Type type="key">9</Type>
+					<UniqueID type="key">481612120</UniqueID>
+					<EntityID type="key">{12E1E684-9C52-476E-A560-CFC9A04EA8EC}</EntityID>
+					<ItemInfoDate type="key">2022-12-05 21:38:25</ItemInfoDate>
+					<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+					<ItemInfoLog type="key">
+Software revision: z_3dctrl_zonly_antiwindup.sdf, z_3dctrl_zonly_antiwindup.x86
+Variable description: z_3dctrl_zonly_antiwindup.sdf
+    Platform / Device: Platform [DS1006 Processor Board, assigned to 'ds1006']
+ControlDesk version: 7.6</ItemInfoLog>
+					<ItemInfoDescr type="key"/>
+					<ItemInfoAddInfoDb type="key"/>
+					<ItemInfoAuthor type="key">jnofech</ItemInfoAuthor>
+				</item>
+				<item>
+					<Component type="key">MeasureDataManagement</Component>
+					<Name type="key">rec1_004.mf4</Name>
+					<DisplayName type="key">rec1_004.mf4</DisplayName>
+					<Path type="key">.\Measurement Data</Path>
+					<Flags type="key">1088</Flags>
+					<Type type="key">9</Type>
+					<UniqueID type="key">265775796</UniqueID>
+					<EntityID type="key">{16982E69-FD53-4972-9BBD-3D61DE6C838C}</EntityID>
+					<ItemInfoDate type="key">2022-12-05 21:45:16</ItemInfoDate>
+					<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+					<ItemInfoLog type="key">
+Software revision: z_3dctrl_zonly_antiwindup.sdf, z_3dctrl_zonly_antiwindup.x86
+Variable description: z_3dctrl_zonly_antiwindup.sdf
+    Platform / Device: Platform [DS1006 Processor Board, assigned to 'ds1006']
+ControlDesk version: 7.6</ItemInfoLog>
+					<ItemInfoDescr type="key"/>
+					<ItemInfoAddInfoDb type="key"/>
+					<ItemInfoAuthor type="key">jnofech</ItemInfoAuthor>
+				</item>
+			</item>
+			<item>
+				<Targets type="key">.vfex</Targets>
+				<Docs type="key">.vfex</Docs>
+				<Name type="key">Variable Filters</Name>
+				<DisplayName type="key">Variable Filters</DisplayName>
+				<Path type="key">.</Path>
+				<Flags type="key">256</Flags>
+				<Type type="key">3</Type>
+				<UniqueID type="key">514719024</UniqueID>
+				<EntityID type="key">{134D8E69-22FF-4FB3-9927-AA4A66DE5498}</EntityID>
+				<ItemInfoDate type="key">2022-12-05 20:13:40</ItemInfoDate>
+				<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+				<ItemInfoDocs type="key">.vfex</ItemInfoDocs>
+				<ItemInfoDescr type="key"/>
+				<ItemInfoAddInfoDb type="key"/>
+				<ItemInfoAuthor type="key">jnofech</ItemInfoAuthor>
+			</item>
+			<item>
+				<Targets type="key">.lab</Targets>
+				<Docs type="key">.lab,.txt</Docs>
+				<Name type="key">Label Lists</Name>
+				<DisplayName type="key">Label Lists</DisplayName>
+				<Path type="key">.</Path>
+				<Flags type="key">256</Flags>
+				<Type type="key">3</Type>
+				<UniqueID type="key">586721801</UniqueID>
+				<EntityID type="key">{00996304-C0A6-491E-BC0E-BB62EB39F1BA}</EntityID>
+				<ItemInfoDate type="key">2022-12-05 20:13:40</ItemInfoDate>
+				<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+				<ItemInfoDocs type="key">.lab,.txt</ItemInfoDocs>
+				<ItemInfoDescr type="key"/>
+				<ItemInfoAddInfoDb type="key"/>
+				<ItemInfoAuthor type="key">jnofech</ItemInfoAuthor>
+			</item>
+			<item>
+				<Targets type="key">.rtf,.pdf,.html,.xml,.txt,.csv</Targets>
+				<Docs type="key">.rtf,.pdf,.html,.txt,.csv</Docs>
+				<Name type="key">Reports</Name>
+				<DisplayName type="key">Reports</DisplayName>
+				<Path type="key">.</Path>
+				<Type type="key">3</Type>
+				<UniqueID type="key">750979242</UniqueID>
+				<EntityID type="key">{98AE45BB-BFE8-4679-8DFA-06D4D1E29948}</EntityID>
+				<ItemInfoDate type="key">2022-12-05 20:13:40</ItemInfoDate>
+				<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+				<ItemInfoDocs type="key">.rtf,.pdf,.html,.txt,.csv</ItemInfoDocs>
+				<ItemInfoDescr type="key"/>
+				<ItemInfoAddInfoDb type="key"/>
+				<ItemInfoAuthor type="key">jnofech</ItemInfoAuthor>
+			</item>
+			<item>
+				<Targets type="key">pythonscriptcomponent</Targets>
+				<Name type="key">Python Scripts</Name>
+				<DisplayName type="key">Python Scripts</DisplayName>
+				<Path type="key">.</Path>
+				<Flags type="key">256</Flags>
+				<ExtendedFlags type="key">4224</ExtendedFlags>
+				<Type type="key">3</Type>
+				<UniqueID type="key">581422996</UniqueID>
+				<EntityID type="key">{54988890-6B68-49DC-B18E-66E2817124AF}</EntityID>
+				<ItemInfoDate type="key">2022-12-05 20:13:40</ItemInfoDate>
+				<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+				<ItemInfoDescr type="key"/>
+				<ItemInfoAddInfoDb type="key"/>
+				<ItemInfoAuthor type="key">jnofech</ItemInfoAuthor>
+			</item>
+			<item>
+				<Targets type="key">signaleditor</Targets>
+				<Name type="key">Signal Generators</Name>
+				<DisplayName type="key">Signal Generators</DisplayName>
+				<Path type="key">.</Path>
+				<Flags type="key">256</Flags>
+				<Type type="key">3</Type>
+				<UniqueID type="key">638238429</UniqueID>
+				<EntityID type="key">{D3BE7458-9305-455A-B763-5B6ECD5ADC3A}</EntityID>
+				<ItemInfoDate type="key">2022-12-05 20:13:40</ItemInfoDate>
+				<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+				<ItemInfoDescr type="key"/>
+				<ItemInfoAddInfoDb type="key"/>
+				<ItemInfoAuthor type="key">jnofech</ItemInfoAuthor>
+			</item>
+			<item>
+				<Targets type="key">busnavigator,.xml</Targets>
+				<Name type="key">BusNavigator</Name>
+				<DisplayName type="key">BusNavigator</DisplayName>
+				<Path type="key">.</Path>
+				<Flags type="key">260</Flags>
+				<ExtendedFlags type="key">256</ExtendedFlags>
+				<Type type="key">3</Type>
+				<UniqueID type="key">158554921</UniqueID>
+				<EntityID type="key">{1843AF2D-7780-4D38-BF8A-B088045C88F5}</EntityID>
+				<ItemInfoDate type="key">2022-12-05 20:13:40</ItemInfoDate>
+				<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+				<ItemInfoDescr type="key"/>
+				<ItemInfoAddInfoDb type="key"/>
+				<ItemInfoAuthor type="key">jnofech</ItemInfoAuthor>
+			</item>
+			<item>
+				<Targets type="key">xilapieesport</Targets>
+				<Name type="key">XIL API EESPorts</Name>
+				<DisplayName type="key">XIL API EESPorts</DisplayName>
+				<Path type="key">.</Path>
+				<Flags type="key">256</Flags>
+				<Type type="key">3</Type>
+				<UniqueID type="key">373674331</UniqueID>
+				<EntityID type="key">{C1B0C1FE-4959-4F0B-A4C9-2D643118CF24}</EntityID>
+				<ItemInfoDate type="key">2022-12-05 20:13:40</ItemInfoDate>
+				<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+				<ItemInfoDescr type="key"/>
+				<ItemInfoAddInfoDb type="key"/>
+				<ItemInfoAuthor type="key">jnofech</ItemInfoAuthor>
+			</item>
+		</item>
+		<item>
+			<Name type="key">AutomationCustomData.json</Name>
+			<DisplayName type="key">AutomationCustomData.json</DisplayName>
+			<Path type="key">.</Path>
+			<Flags type="key">4</Flags>
+			<Type type="key">4</Type>
+			<UniqueID type="key">285913580</UniqueID>
+			<EntityID type="key">{9EA7ADAB-1757-41B3-B8B3-0B03AE0CA0A7}</EntityID>
+			<ItemInfoDate type="key">2022-12-05 20:13:42</ItemInfoDate>
+			<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+			<ItemInfoDescr type="key"/>
+			<ItemInfoAddInfoDb type="key"/>
+			<ItemInfoAuthor type="key">jnofech</ItemInfoAuthor>
+		</item>
+		<item>
+			<Name type="key">Events</Name>
+			<DisplayName type="key">Events</DisplayName>
+			<Path type="key">.</Path>
+			<Flags type="key">4</Flags>
+			<ExtendedFlags type="key">4</ExtendedFlags>
+			<Type type="key">3</Type>
+			<UniqueID type="key">584421571</UniqueID>
+			<EntityID type="key">{71A352CC-BD62-47B6-9E4F-D9EB70C62558}</EntityID>
+			<ItemInfoDate type="key">2022-12-05 20:13:43</ItemInfoDate>
+			<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+			<ItemInfoDescr type="key"/>
+			<ItemInfoAddInfoDb type="key"/>
+			<ItemInfoAuthor type="key">jnofech</ItemInfoAuthor>
+			<item>
+				<Name type="key">Experiment.events</Name>
+				<DisplayName type="key">Experiment.events</DisplayName>
+				<Path type="key">.\Events</Path>
+				<Flags type="key">4</Flags>
+				<Type type="key">52</Type>
+				<UniqueID type="key">739619406</UniqueID>
+				<EntityID type="key">{0D281EFA-3CF6-474A-B815-80AA9FD72019}</EntityID>
+				<ItemInfoDate type="key">2022-12-05 20:13:43</ItemInfoDate>
+				<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+				<ItemInfoDescr type="key"/>
+				<ItemInfoAddInfoDb type="key"/>
+				<ItemInfoAuthor type="key">jnofech</ItemInfoAuthor>
+			</item>
+		</item>
+	</experiment>
+	<ProjectExperiment/>
+	<DataSetManager>
+		<Version>
+			<Version type="key">2</Version>
+		</Version>
+		<Work/>
+		<ActiveWork/>
+		<Reference/>
+		<ActiveReference/>
+		<Master/>
+		<ActiveMaster/>
+		<InitialMaster/>
+		<Incomplete/>
+		<IncompleteReadonly/>
+		<DataSet/>
+		<Readonly/>
+		<AutomaticDownload/>
+	</DataSetManager>
+	<PlatformManagement>
+		<SimulationTimeGroupSupported type="key">-1</SimulationTimeGroupSupported>
+		<DeviceFactory>
+			<Device>
+				<DeviceName type="key">04d082b0-1745-40b0-af50-e0e9fc2df7b2</DeviceName>
+				<DisplayName type="key">Platform</DisplayName>
+				<DeviceType type="key">230</DeviceType>
+				<DeviceConfiguration/>
+				<applications/>
+				<AssignmentConfiguration>
+					<AssignmentInfo>
+						<AliasName type="key"/>
+						<BoardName type="key"/>
+						<ConnectionType type="key">0</ConnectionType>
+						<MACAddress type="key"/>
+						<Mode type="key">1</Mode>
+						<Children type="key">0</Children>
+						<NetClient type="key"/>
+						<PlatformType type="key">17</PlatformType>
+						<PortAddress type="key">768</PortAddress>
+						<ProcessorName type="key"/>
+						<SerialNumber type="key"/>
+						<TopologyCheck type="key">0</TopologyCheck>
+						<AssignmentProperties>
+							<AssignmentProperty>
+								<Name type="key">PlatformType</Name>
+								<Value type="key">17</Value>
+								<Type type="key">System.Int32</Type>
+							</AssignmentProperty>
+							<AssignmentProperty>
+								<Name type="key">Mode</Name>
+								<Value type="key">1</Value>
+								<Type type="key">System.Int32</Type>
+							</AssignmentProperty>
+							<AssignmentProperty>
+								<Name type="key">ConnectionType</Name>
+								<Value type="key">0</Value>
+								<Type type="key">System.Int32</Type>
+							</AssignmentProperty>
+							<AssignmentProperty>
+								<Name type="key">Children</Name>
+								<Value type="key">0</Value>
+								<Type type="key">System.Int32</Type>
+							</AssignmentProperty>
+							<AssignmentProperty>
+								<Name type="key">BoardName</Name>
+								<Value type="key"/>
+								<Type type="key">System.String</Type>
+							</AssignmentProperty>
+							<AssignmentProperty>
+								<Name type="key">MACAddress</Name>
+								<Value type="key"/>
+								<Type type="key">System.String</Type>
+							</AssignmentProperty>
+							<AssignmentProperty>
+								<Name type="key">NetClient</Name>
+								<Value type="key"/>
+								<Type type="key">System.String</Type>
+							</AssignmentProperty>
+							<AssignmentProperty>
+								<Name type="key">PortAddress</Name>
+								<Value type="key">768</Value>
+								<Type type="key">System.Int32</Type>
+							</AssignmentProperty>
+							<AssignmentProperty>
+								<Name type="key">SerialNumber</Name>
+								<Value type="key"/>
+								<Type type="key">System.String</Type>
+							</AssignmentProperty>
+							<AssignmentProperty>
+								<Name type="key">ProcessorName</Name>
+								<Value type="key"/>
+								<Type type="key">System.String</Type>
+							</AssignmentProperty>
+							<AssignmentProperty>
+								<Name type="key">TopologyCheck</Name>
+								<Value type="key">False</Value>
+								<Type type="key">System.Boolean</Type>
+							</AssignmentProperty>
+							<AssignmentProperty>
+								<Name type="key">AliasName</Name>
+								<Value type="key"/>
+								<Type type="key">System.String</Type>
+							</AssignmentProperty>
+						</AssignmentProperties>
+					</AssignmentInfo>
+				</AssignmentConfiguration>
+				<GeneralSettings>
+					<StartOnlineCalibrationBehavior type="key">5</StartOnlineCalibrationBehavior>
+					<DeviceEnableResynchonisation type="key">1</DeviceEnableResynchonisation>
+					<MeasurementService type="key">0</MeasurementService>
+					<ResumeOnlineCalibrationBehaviour type="key">5</ResumeOnlineCalibrationBehaviour>
+					<DisplayStatusInformation type="key">-1</DisplayStatusInformation>
+					<DisplayAutomaticReconnectBehavior type="key">1</DisplayAutomaticReconnectBehavior>
+					<EnablePlatform type="key">1</EnablePlatform>
+					<EnableDynamicProperties type="key">1</EnableDynamicProperties>
+				</GeneralSettings>
+				<SubstituteFactory/>
+			</Device>
+		</DeviceFactory>
+	</PlatformManagement>
+	<DiagnosticsManagement/>
+	<Instrumentation Version="1"/>
+	<VariablesManagement>
+		<Favorites>
+			<Labels/>
+		</Favorites>
+	</VariablesManagement>
+	<MeasureDataManagement>
+		<TriggerRules>
+			<Version type="key">2</Version>
+		</TriggerRules>
+		<BookmarkTypes>
+			<BookmarkType>
+				<TypeID type="key">1</TypeID>
+				<RecordingActive type="key">1</RecordingActive>
+				<VisualizationActive type="key">1</VisualizationActive>
+			</BookmarkType>
+			<BookmarkType>
+				<TypeID type="key">2</TypeID>
+				<RecordingActive type="key">1</RecordingActive>
+				<VisualizationActive type="key">1</VisualizationActive>
+			</BookmarkType>
+			<BookmarkType>
+				<TypeID type="key">3</TypeID>
+				<RecordingActive type="key">1</RecordingActive>
+				<VisualizationActive type="key">1</VisualizationActive>
+			</BookmarkType>
+			<BookmarkType>
+				<TypeID type="key">5</TypeID>
+				<RecordingActive type="key">0</RecordingActive>
+				<VisualizationActive type="key">0</VisualizationActive>
+			</BookmarkType>
+			<BookmarkType>
+				<TypeID type="key">6</TypeID>
+				<RecordingActive type="key">0</RecordingActive>
+				<VisualizationActive type="key">0</VisualizationActive>
+			</BookmarkType>
+			<BookmarkType>
+				<TypeID type="key">8</TypeID>
+				<RecordingActive type="key">1</RecordingActive>
+				<VisualizationActive type="key">1</VisualizationActive>
+			</BookmarkType>
+			<BookmarkType>
+				<TypeID type="key">9</TypeID>
+				<RecordingActive type="key">1</RecordingActive>
+				<VisualizationActive type="key">1</VisualizationActive>
+			</BookmarkType>
+			<BookmarkType>
+				<TypeID type="key">12</TypeID>
+				<RecordingActive type="key">1</RecordingActive>
+				<VisualizationActive type="key">1</VisualizationActive>
+			</BookmarkType>
+			<BookmarkType>
+				<TypeID type="key">13</TypeID>
+				<RecordingActive type="key">1</RecordingActive>
+				<VisualizationActive type="key">1</VisualizationActive>
+			</BookmarkType>
+			<BookmarkType>
+				<TypeID type="key">14</TypeID>
+				<RecordingActive type="key">1</RecordingActive>
+				<VisualizationActive type="key">1</VisualizationActive>
+			</BookmarkType>
+			<BookmarkType>
+				<TypeID type="key">15</TypeID>
+				<RecordingActive type="key">1</RecordingActive>
+				<VisualizationActive type="key">1</VisualizationActive>
+			</BookmarkType>
+		</BookmarkTypes>
+		<ProjectExperimentSettings>
+			<ShowMeasurementLinks type="key">0</ShowMeasurementLinks>
+		</ProjectExperimentSettings>
+	</MeasureDataManagement>
+	<MeasurementConfiguration>
+		<NextUniqueKey type="key">4</NextUniqueKey>
+		<SortedColumn type="key">4</SortedColumn>
+		<SortAscending type="key">-1</SortAscending>
+		<SignalList>
+			<Variable>
+				<Name type="key">Labels/x_pos</Name>
+				<Platform type="key">04d082b0-1745-40b0-af50-e0e9fc2df7b2</Platform>
+				<Active type="key">-1</Active>
+				<Signal>
+					<Raster type="key">HostService</Raster>
+				</Signal>
+			</Variable>
+			<Variable>
+				<Name type="key">Labels/y_pos</Name>
+				<Platform type="key">04d082b0-1745-40b0-af50-e0e9fc2df7b2</Platform>
+				<Active type="key">-1</Active>
+				<Signal>
+					<Raster type="key">HostService</Raster>
+				</Signal>
+			</Variable>
+			<Variable>
+				<Name type="key">Labels/z_diff</Name>
+				<Platform type="key">04d082b0-1745-40b0-af50-e0e9fc2df7b2</Platform>
+				<Active type="key">-1</Active>
+				<Signal>
+					<Raster type="key">HostService</Raster>
+				</Signal>
+			</Variable>
+			<Variable>
+				<Name type="key">Labels/z_pos</Name>
+				<Platform type="key">04d082b0-1745-40b0-af50-e0e9fc2df7b2</Platform>
+				<Active type="key">-1</Active>
+				<Signal>
+					<Raster type="key">HostService</Raster>
+				</Signal>
+			</Variable>
+			<Variable>
+				<Name type="key">Model Root/PID-Vertical/Dz/Out1</Name>
+				<Platform type="key">04d082b0-1745-40b0-af50-e0e9fc2df7b2</Platform>
+				<Active type="key">-1</Active>
+				<Signal>
+					<Raster type="key">HostService</Raster>
+				</Signal>
+			</Variable>
+			<Variable>
+				<Name type="key">Model Root/PID-Vertical/In1/Out1</Name>
+				<Platform type="key">04d082b0-1745-40b0-af50-e0e9fc2df7b2</Platform>
+				<Active type="key">-1</Active>
+				<Signal>
+					<Raster type="key">HostService</Raster>
+				</Signal>
+			</Variable>
+			<Variable>
+				<Name type="key">Model Root/PID-Vertical/Iz/Out1</Name>
+				<Platform type="key">04d082b0-1745-40b0-af50-e0e9fc2df7b2</Platform>
+				<Active type="key">-1</Active>
+				<Signal>
+					<Raster type="key">HostService</Raster>
+				</Signal>
+			</Variable>
+			<Variable>
+				<Name type="key">Model Root/PID-Vertical/Pz/Out1</Name>
+				<Platform type="key">04d082b0-1745-40b0-af50-e0e9fc2df7b2</Platform>
+				<Active type="key">-1</Active>
+				<Signal>
+					<Raster type="key">HostService</Raster>
+				</Signal>
+			</Variable>
+		</SignalList>
+		<Platforms>
+			<Platform>
+				<Name type="key">04d082b0-1745-40b0-af50-e0e9fc2df7b2</Name>
+				<FilteredRastersView type="key">1</FilteredRastersView>
+				<UseDefaultRasterForParameters type="key">0</UseDefaultRasterForParameters>
+				<DefaultRaster type="key">HostService</DefaultRaster>
+				<Rasters>
+					<PlatformTriggered>
+						<Name type="key">HostService</Name>
+						<AutoRepeatEnabled type="key">1</AutoRepeatEnabled>
+						<AutoRepeatBehavior type="key">1</AutoRepeatBehavior>
+						<MultiCaptureHistoryEnabled type="key">0</MultiCaptureHistoryEnabled>
+						<DownsamplingFactor type="key">1</DownsamplingFactor>
+						<StartTrigger type="key">2</StartTrigger>
+						<StopTrigger type="key">3</StopTrigger>
+					</PlatformTriggered>
+				</Rasters>
+				<EnabledHardwarePollingRasters/>
+				<PlatformTriggers>
+					<PlatformTrigger>
+						<UniqueKey type="key">2</UniqueKey>
+						<Name type="key">Platform Trigger 1</Name>
+						<Condition type="key"/>
+						<Delay type="key">0</Delay>
+						<Enabled type="key">0</Enabled>
+						<Timeout type="key">0</Timeout>
+						<TimeoutEnabled type="key">0</TimeoutEnabled>
+						<VariableMappings>
+							<Platform type="key"/>
+						</VariableMappings>
+					</PlatformTrigger>
+				</PlatformTriggers>
+			</Platform>
+			<Platform>
+				<Name type="key">__Calculated</Name>
+				<FilteredRastersView type="key">1</FilteredRastersView>
+				<UseDefaultRasterForParameters type="key">0</UseDefaultRasterForParameters>
+				<Rasters>
+					<Raster>
+						<Name type="key">Merged</Name>
+						<MinimumSamplingPeriod type="key">0.001</MinimumSamplingPeriod>
+					</Raster>
+				</Rasters>
+				<EnabledHardwarePollingRasters/>
+				<PlatformTriggers/>
+			</Platform>
+		</Platforms>
+		<DurationTriggers>
+			<DurationTrigger>
+				<UniqueKey type="key">3</UniqueKey>
+				<Name type="key">Duration Trigger 1</Name>
+				<Delay type="key">0</Delay>
+				<Duration type="key">1</Duration>
+				<Enabled type="key">0</Enabled>
+			</DurationTrigger>
+		</DurationTriggers>
+		<SampleCountTriggers/>
+		<Acquisition>
+			<MeasurementBufferSize type="key">60</MeasurementBufferSize>
+			<BufferOverflowWarningEnabled type="key">0</BufferOverflowWarningEnabled>
+			<BufferOverflowWarningTime type="key">10</BufferOverflowWarningTime>
+			<SaveMeasurementBuffer>
+				<AddToExperimentEnabled type="key">-1</AddToExperimentEnabled>
+				<AutomaticSaveDialogEnabled type="key">0</AutomaticSaveDialogEnabled>
+				<AutomaticExportEnabled type="key">0</AutomaticExportEnabled>
+				<AutomaticExportFileNamePrefix type="key">bufexp_</AutomaticExportFileNamePrefix>
+				<AutomaticExportFileType type="key">ASAM MDF 4.1 Files (*.mf4)</AutomaticExportFileType>
+				<AutomaticExportFolder type="key"/>
+				<AutomaticNamingEnabled type="key">-1</AutomaticNamingEnabled>
+				<AutomaticNamingMinimunDigits type="key">3</AutomaticNamingMinimunDigits>
+				<AutomaticNamingStartIndex type="key">1</AutomaticNamingStartIndex>
+				<Description type="key"/>
+				<FileNamePrefix type="key">buf_</FileNamePrefix>
+				<OpenInMeasurementDataPoolEnabled type="key">0</OpenInMeasurementDataPoolEnabled>
+				<RecordingFileType type="key">ASAM MDF 4.1 Files (*.mf4)</RecordingFileType>
+				<MeasurementTimestampsEnabled type="key">0</MeasurementTimestampsEnabled>
+			</SaveMeasurementBuffer>
+			<SaveDisplayedData>
+				<AddToExperimentEnabled type="key">-1</AddToExperimentEnabled>
+				<AutomaticSaveDialogEnabled type="key">0</AutomaticSaveDialogEnabled>
+				<AutomaticExportEnabled type="key">0</AutomaticExportEnabled>
+				<AutomaticExportFileNamePrefix type="key">sddexp_</AutomaticExportFileNamePrefix>
+				<AutomaticExportFileType type="key">ASAM MDF 4.1 Files (*.mf4)</AutomaticExportFileType>
+				<AutomaticExportFolder type="key"/>
+				<AutomaticNamingEnabled type="key">-1</AutomaticNamingEnabled>
+				<AutomaticNamingMinimunDigits type="key">3</AutomaticNamingMinimunDigits>
+				<AutomaticNamingStartIndex type="key">1</AutomaticNamingStartIndex>
+				<Description type="key"/>
+				<FileNamePrefix type="key">sdd_</FileNamePrefix>
+				<OpenInMeasurementDataPoolEnabled type="key">0</OpenInMeasurementDataPoolEnabled>
+				<RecordingFileType type="key">ASAM MDF 4.1 Files (*.mf4)</RecordingFileType>
+				<MeasurementTimestampsEnabled type="key">0</MeasurementTimestampsEnabled>
+			</SaveDisplayedData>
+			<SaveFlightRecorderData>
+				<AddToExperimentEnabled type="key">-1</AddToExperimentEnabled>
+				<AutomaticSaveDialogEnabled type="key">0</AutomaticSaveDialogEnabled>
+				<AutomaticExportEnabled type="key">0</AutomaticExportEnabled>
+				<AutomaticExportFileNamePrefix type="key">flightrecexp_</AutomaticExportFileNamePrefix>
+				<AutomaticExportFileType type="key">ASAM MDF 4.1 Files (*.mf4)</AutomaticExportFileType>
+				<AutomaticExportFolder type="key"/>
+				<AutomaticNamingEnabled type="key">-1</AutomaticNamingEnabled>
+				<AutomaticNamingMinimunDigits type="key">3</AutomaticNamingMinimunDigits>
+				<AutomaticNamingStartIndex type="key">1</AutomaticNamingStartIndex>
+				<Description type="key"/>
+				<FileNamePrefix type="key">flightrec_</FileNamePrefix>
+				<OpenInMeasurementDataPoolEnabled type="key">0</OpenInMeasurementDataPoolEnabled>
+				<RecordingFileType type="key">ASAM MDF 4.1 Files (*.mf4)</RecordingFileType>
+			</SaveFlightRecorderData>
+		</Acquisition>
+		<Recorders>
+			<Recorder>
+				<Name type="key">Recorder 1</Name>
+				<UniqueKey type="key">1</UniqueKey>
+				<AutomaticSignalConfigurationEnabled type="key">-1</AutomaticSignalConfigurationEnabled>
+				<WriteToFileEnabled type="key">-1</WriteToFileEnabled>
+				<MeasurementTimestampsEnabled type="key">0</MeasurementTimestampsEnabled>
+				<StartAudioSignalEnabled type="key">0</StartAudioSignalEnabled>
+				<StopAudioSignalEnabled type="key">0</StopAudioSignalEnabled>
+				<Active type="key">-1</Active>
+				<StartCondition>
+					<Enabled type="key">0</Enabled>
+					<RecordingCycleCount type="key">1</RecordingCycleCount>
+					<SelectedTriggerRule type="key"/>
+					<TriggerDelay type="key">0</TriggerDelay>
+				</StartCondition>
+				<StopCondition>
+					<RecordingStopWarningEnabled type="key">0</RecordingStopWarningEnabled>
+					<RecordingStopWarningTime type="key">60</RecordingStopWarningTime>
+					<SelectedTriggerRule type="key"/>
+					<Type type="key">0</Type>
+					<TimeLimit type="key">3600</TimeLimit>
+					<TriggerDelay type="key">0</TriggerDelay>
+				</StopCondition>
+				<StorageInformation>
+					<AddToExperimentEnabled type="key">-1</AddToExperimentEnabled>
+					<AutomaticSaveDialogEnabled type="key">0</AutomaticSaveDialogEnabled>
+					<AutomaticExportEnabled type="key">0</AutomaticExportEnabled>
+					<AutomaticExportFileNamePrefix type="key">exp1_</AutomaticExportFileNamePrefix>
+					<AutomaticExportFileType type="key">ASAM MDF 4.1 Files (*.mf4)</AutomaticExportFileType>
+					<AutomaticExportFolder type="key"/>
+					<AutomaticNamingEnabled type="key">-1</AutomaticNamingEnabled>
+					<AutomaticNamingMinimunDigits type="key">3</AutomaticNamingMinimunDigits>
+					<AutomaticNamingStartIndex type="key">5</AutomaticNamingStartIndex>
+					<Description type="key"/>
+					<FileNamePrefix type="key">rec1_</FileNamePrefix>
+					<OpenInMeasurementDataPoolEnabled type="key">0</OpenInMeasurementDataPoolEnabled>
+					<RecordingFileType type="key">ASAM MDF 4.1 Files (*.mf4)</RecordingFileType>
+				</StorageInformation>
+				<SignalList>
+					<Variable>
+						<Name type="key">Labels/x_pos</Name>
+						<Platform type="key">04d082b0-1745-40b0-af50-e0e9fc2df7b2</Platform>
+						<PlatformDisplayName type="key">Platform</PlatformDisplayName>
+						<Recorded type="key">-1</Recorded>
+						<Signal>
+							<Raster type="key">HostService</Raster>
+						</Signal>
+					</Variable>
+					<Variable>
+						<Name type="key">Labels/y_pos</Name>
+						<Platform type="key">04d082b0-1745-40b0-af50-e0e9fc2df7b2</Platform>
+						<PlatformDisplayName type="key">Platform</PlatformDisplayName>
+						<Recorded type="key">-1</Recorded>
+						<Signal>
+							<Raster type="key">HostService</Raster>
+						</Signal>
+					</Variable>
+					<Variable>
+						<Name type="key">Labels/z_diff</Name>
+						<Platform type="key">04d082b0-1745-40b0-af50-e0e9fc2df7b2</Platform>
+						<PlatformDisplayName type="key">Platform</PlatformDisplayName>
+						<Recorded type="key">-1</Recorded>
+						<Signal>
+							<Raster type="key">HostService</Raster>
+						</Signal>
+					</Variable>
+					<Variable>
+						<Name type="key">Labels/z_pos</Name>
+						<Platform type="key">04d082b0-1745-40b0-af50-e0e9fc2df7b2</Platform>
+						<PlatformDisplayName type="key">Platform</PlatformDisplayName>
+						<Recorded type="key">-1</Recorded>
+						<Signal>
+							<Raster type="key">HostService</Raster>
+						</Signal>
+					</Variable>
+					<Variable>
+						<Name type="key">Model Root/PID-Vertical/Dz/Out1</Name>
+						<Platform type="key">04d082b0-1745-40b0-af50-e0e9fc2df7b2</Platform>
+						<PlatformDisplayName type="key">Platform</PlatformDisplayName>
+						<Recorded type="key">-1</Recorded>
+						<Signal>
+							<Raster type="key">HostService</Raster>
+						</Signal>
+					</Variable>
+					<Variable>
+						<Name type="key">Model Root/PID-Vertical/In1/Out1</Name>
+						<Platform type="key">04d082b0-1745-40b0-af50-e0e9fc2df7b2</Platform>
+						<PlatformDisplayName type="key">Platform</PlatformDisplayName>
+						<Recorded type="key">-1</Recorded>
+						<Signal>
+							<Raster type="key">HostService</Raster>
+						</Signal>
+					</Variable>
+					<Variable>
+						<Name type="key">Model Root/PID-Vertical/Iz/Out1</Name>
+						<Platform type="key">04d082b0-1745-40b0-af50-e0e9fc2df7b2</Platform>
+						<PlatformDisplayName type="key">Platform</PlatformDisplayName>
+						<Recorded type="key">-1</Recorded>
+						<Signal>
+							<Raster type="key">HostService</Raster>
+						</Signal>
+					</Variable>
+					<Variable>
+						<Name type="key">Model Root/PID-Vertical/Pz/Out1</Name>
+						<Platform type="key">04d082b0-1745-40b0-af50-e0e9fc2df7b2</Platform>
+						<PlatformDisplayName type="key">Platform</PlatformDisplayName>
+						<Recorded type="key">-1</Recorded>
+						<Signal>
+							<Raster type="key">HostService</Raster>
+						</Signal>
+					</Variable>
+				</SignalList>
+			</Recorder>
+		</Recorders>
+	</MeasurementConfiguration>
+	<BusNavigator/>
+	<SignalEditor/>
+	<XILAPIEESPort>
+		<XILAPIEESPort>
+			<EESPorts type="key">&lt;EESPorts /&gt;</EESPorts>
+		</XILAPIEESPort>
+	</XILAPIEESPort>
+	<PythonScriptComponent/>
+</Root>
