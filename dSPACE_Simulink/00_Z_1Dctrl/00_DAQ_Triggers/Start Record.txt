@@ -1,0 +1,6 @@
+OR
+Platform : Model Root/Monitoring/recording_safe/Out1
+POS EDGE
+1
+
+Audio: 1, 600 Hz, 250 ms, Bookmark: 0
